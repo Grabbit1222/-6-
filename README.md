@@ -27,4 +27,4 @@
 - **랜덤 퍼즐 스폰**: `SpawnActor()` 및 `FMath::RandRange()` 활용
 
 ## 📺 시연 영상
-[(시연 영상 혹은 GIF 첨부)](https://youtu.be/l5MT1PED9vM?si=i1uZBrct-PrxcVnF)
+(https://youtu.be/l5MT1PED9vM?si=i1uZBrct-PrxcVnF)
